@@ -1,4 +1,4 @@
-Project Name: Videos for EOS
+## Project Name: Videos for EOS
 Team Name: Anastasia Ovi
 EOS Payment Address: anastasiaovi
 Level: 2
@@ -7,10 +7,10 @@ Project is Open-Source: Yes
 Project was part of Token sale: No
 Repository where Project resides: https://github.com/orgs/PomeloFoundation/
 
-Contact
-Contact Name: Anastasiia Ovechkina
-Contact Email: anastasiaovi.rus@gmail.com
-Website: https://blockchainfloripa.com
+## Contact
+**Contact Name:** Anastasiia Ovechkina
+**Contact Email:** anastasiaovi.rus@gmail.com
+**Website:** https://blockchainfloripa.com
 
 Project Overview
 
