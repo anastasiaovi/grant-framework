@@ -1,29 +1,29 @@
 ## Project Name: Videos for EOS
-Team Name: Anastasia Ovi
-EOS Payment Address: anastasiaovi
-Level: 2
-Pomelo Grant(s): https://pomelo.io/grants/floripaday2
-Project is Open-Source: Yes
-Project was part of Token sale: No
-Repository where Project resides: https://github.com/orgs/PomeloFoundation/
+**Team Name:** Anastasia Ovi
+**EOS Payment Address:** anastasiaovi
+**Level:** 2
+**Pomelo Grant(s):** https://pomelo.io/grants/floripaday2
+**Project is Open-Source:** Yes
+**Project was part of Token sale:** No
+**Repository where Project resides:** https://github.com/orgs/PomeloFoundation/
 
 ## Contact
 **Contact Name:** Anastasiia Ovechkina
 **Contact Email:** anastasiaovi.rus@gmail.com
 **Website:** https://blockchainfloripa.com
 
-Project Overview
+# Project Overview
 
 We are going to create educational and compelling videos introducing EOS, the ENF and the Antelope chain to the masses in order to cultivate and grow decentralized communities. Doing that, we will attract attention of talented creators and builders to the EOS ecosystem by creating engaging content as well as increasing shareability.
 
 Please provide the following:
 
-Name: Videos for EOS
-Brief Description: Creating video content for EOS social media
+**Name:** Videos for EOS
+**Brief Description:** Creating video content for EOS social media
 Relationship to EOSIO: 
-Reason for Interest: An indication of why your team is interested in creating this project.
+**Reason for Interest:** An indication of why your team is interested in creating this project.
 
-Team
+###Team###
 Team members
 Team Leader: Anastasiia Ovechkina
 Name of team member Adil Elias
