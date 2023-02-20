@@ -1,7 +1,7 @@
 ## Project Name: Videos for EOS
 **Team Name:** Anastasia Ovi
 **EOS Payment Address:** anastasiaovi
-**Level:** 2
+**Level:** **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
 **Pomelo Grant(s):** https://pomelo.io/grants/floripaday2
 **Project is Open-Source:** Yes
 **Project was part of Token sale:** No
