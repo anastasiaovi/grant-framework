@@ -1,7 +1,7 @@
 ## Project Name: Videos for EOS
 **Team Name:** Anastasia Ovi
 **EOS Payment Address:** anastasiaovi
-**Level:** **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
+**[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
 **Pomelo Grant(s):** https://pomelo.io/grants/floripaday2
 **Project is Open-Source:** Yes
 **Project was part of Token sale:** No
@@ -9,7 +9,7 @@
 
 ## Contact
 **Contact Name:** Anastasiia Ovechkina
-**Contact Email:** anastasiaovi.rus@gmail.com
+**Contact Email:** anastasia@fioprotocol.io
 **Website:** https://blockchainfloripa.com
 
 # Project Overview
@@ -24,103 +24,98 @@ Relationship to EOSIO:
 **Reason for Interest:** An indication of why your team is interested in creating this project.
 
 ###Team###
-
-###Team members
-
+**Team members:**
 **Team Leader:** Anastasiia Ovechkina
-**Team Co-leader:** Adil Elias
+**Team coleader** Adil Elias
 
-#### Team Experience
-
+Team Experience
 I'm a Co-Lead at FIO Protocol (sister chain of EOS) and Head of Partnerships at Weaver Advisory who has been creating video for over 5 years. Adil is a Growth, Marketing and BD at FIO Protocol with long experience in crypto and creator of the first ever web3 book club with 12 times bestseller Neil Strauss & the Steemit book club 1 and 2. 
 
 If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
 https://github.com/eosnetworkfoundation/grant-framework/pull/114
 
-### Team Org Repos
+Milestone Summary
 
-Our team has more experience with marketing and content than with github, this why we don't use repositories.
+Total Estimated Duration: 4 months
+Full-Time Equivalent (FTE): 693 FTE
+Total Costs: 39,500 USD
+Please note that this application is automatically parsed.
 
-### Team Member Repos
+Notes on above fields:
 
-As above.
+Total Estimated Duration: 4 months
+Full-Time Equivalent (FTE): 3 FTE
+Total Costs: 39,500 USD
+Milestone 1 Example — 3 videos per week
+Estimated duration: 1 week
+FTE: 3
+Costs: 3,250 USD
+ID	Deliverable	Specification
+3 videos per week
+Milestone 2 Example — 3,250 USD
+Estimated Duration: 1 week
+FTE: 3
+Costs: 3,250 USD
+Milestone 3 Example — 3 videos per week
+Estimated duration: 1 week
+FTE: 3
+Costs: 3,250 USD
+ID	Deliverable	Specification
+3 videos per week
+Milestone 4 Example — 3,250 USD
+Estimated Duration: 1 week
+FTE: 3
+Costs: 3,250 USD
+Milestone 5 Example — 3 videos per week
+Estimated duration: 1 week
+FTE: 3
+Costs: 3,250 USD
+ID	Deliverable	Specification
+3 videos per week
+Milestone 6 Example — 3,250 USD
+Estimated Duration: 1 week
+FTE: 3
+Costs: 3,250 USD
+Milestone 7 Example — 3 videos per week
+Estimated duration: 1 week
+FTE: 3
+Costs: 3,250 USD
+ID	Deliverable	Specification
+3 videos per week
+Milestone 8 Example — 3,250 USD
+Estimated Duration: 1 week
+FTE: 3
+Costs: 3,250 USD
+Milestone 9 Example — 3 videos per week
+Estimated duration: 1 week
+FTE: 3
+Costs: 3,250 USD
+ID	Deliverable	Specification
+3 videos per week
+Milestone 10 Example — 3,250 USD
+Estimated Duration: 1 week
+FTE: 3
+Costs: 3,250 USD
+Milestone 11 Example — 3 videos per week
+Estimated duration: 1 week
+FTE: 3
+Costs: 3,250 USD
+ID	Deliverable	Specification
+3 videos per week
+Milestone 12 Example — 3,250 USD
+Estimated Duration: 1 week
+FTE: 3
+Costs: 3,250 USD
+ID	Videos
 
-### Milestone Summary
-
-**Total Estimated Duration:** 4 months
-**Full-Time Equivalent (FTE):** 3 FTE
-**Total Costs:** 39,500 USD
-
-### Milestone 1 — 3 videos per week
-**Estimated duration:** 1 week
-**FTE:** 3
-**Costs:** 3,250 USD
-
-
-### Milestone 2 — 3 videos per week
-**Estimated Duration:** 1 week
-**FTE:** 3
-**Costs:** 3,250 USD
-
-### Milestone 3 — 3 videos per week
-**Estimated duration:** 1 week
-**FTE:** 3
-**Costs:** 3,250 USD
-
-### Milestone 4 — 3 videos per week
-**Estimated Duration:** 1 week
-**FTE:** 3
-**Costs:** 3,250 USD
-
-### Milestone 5 — 3 videos per week
-**Estimated duration:** 1 week
-**FTE:** 3
-**Costs:** 3,250 USD
-
-### Milestone 6 — 3 videos per week
-**Estimated Duration:** 1 week
-**FTE:** 3
-**Costs:** 3,250 USD
-
-### Milestone 7 — 3 videos per week
-**Estimated duration:** 1 week
-**FTE:** 3
-**Costs:** 3,250 USD
-
-### Milestone 8 — 3 videos per week
-**Estimated Duration:** 1 week
-**FTE:** 3
-**Costs:** 3,250 USD
-
-### Milestone — 3 videos per week
-**Estimated duration:** 1 week
-**FTE:** 3
-**Costs:** 3,250 USD
-
-### Milestone 3 videos per week
-**Estimated Duration:** 1 week
-**FTE:** 3
-**Costs:** 3,250 USD
-
-### Milestone 11 — 3 videos per week
-**Estimated duration:** 1 week
-**FTE:** 3
-**Costs:** 3,250 USD
-
-### Milestone 12 Example — 3,250 USD
-**Estimated Duration:** 1 week
-**FTE:** 3
-**Costs:** 3,250 USD
-
-
-## Future Plans
+Future Plans
 We continue expanding our work to bring more visibility and shareability to EOS. 
 
 how you intend to use, enhance, promote and support your project in the short term, and
 the team's long-term plans and intentions in relation to it - paying for studio, camera crew, promotion, sound, video production and social media management.
 
-## Additional Information
-**How did you hear about the Grants Program - personal recommendation**
+Additional Information
+How did you hear about the Grants Program - personal recommendation
 
 Work you have already done.
 https://www.youtube.com/@IdiomasConAnastasiaOvi/videos (educational content)
