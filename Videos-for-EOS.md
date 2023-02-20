@@ -5,7 +5,7 @@
 **Pomelo Grant(s):** https://pomelo.io/grants/floripaday2
 **Project is Open-Source:** Yes
 **Project was part of Token sale:** No
-**Repository where Project resides:** https://github.com/orgs/PomeloFoundation/
+**Repository where Project resides:** We maintain Whatsapp groups, a LinkedIn (https://www.linkedin.com/company/86850372) and Instagram (https://www.instagram.com/blockchainfloripa)
 
 ## Contact
 **Contact Name:** Anastasiia Ovechkina
